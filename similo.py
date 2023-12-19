@@ -43,7 +43,7 @@ def pull_clean():
 
 #Options Menu
 with st.sidebar:
-    selected = option_menu('SimiLo', ["Intro", 'Search','About'], 
+    selected = option_menu('Touristo', ["Intro", 'Search','About'], 
         icons=['play-btn','search','info-circle'],menu_icon='intersect', default_index=0)
     lottie = load_lottiefile("similo3.json")
     st_lottie(lottie,key='loc')
