@@ -15,7 +15,7 @@ import snowflake.connector
 
 #Layout
 st.set_page_config(
-    page_title="SimiLo",
+    page_title="Touristo",
     layout="wide",
     initial_sidebar_state="expanded")
 
