@@ -789,10 +789,6 @@ if selected=='About':
         col1.write('')
         col1.write('')
         col1.write('')
-        col1.write('**Name:**    Kevin Soderholm')
-        col1.write('**Education:**    M.S. Applied Statistics')
-        col1.write('**Experience:**    8 YOE in Data Science across Banking, Fintech, and Retail')
-        col1.write('**Contact:**    kevin.soderholm@gmail.com or [linkedin](https://www.linkedin.com/in/kevin-soderholm-67788829/)')
-        col1.write('**Thanks for stopping by!**')
-        col2.image('kevin8.png')
+        col1.write('**Name:**    Jayes')
+        
 
