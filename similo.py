@@ -51,7 +51,7 @@ with st.sidebar:
 #Intro Page
 if selected=="Intro":
     #Header
-    st.title('Welcome to SimiLo')
+    st.title('Welcome to Turisto')
     st.subheader('*A new tool to find similar locations across the United States.*')
 
     st.divider()
